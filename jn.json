@@ -1,0 +1,17 @@
+{
+  "Name": "Testing",
+  "Age" : 23,
+  "Phonenumber" : "8743-913-121",
+  "City" : ["Warsaw","Berlin","London"],
+  "Address" :
+      {
+        "Street" : "ABCD",
+        "HouseNumber" : "23D",
+        "City" : "ABCDEF",
+        "Number" :
+            {
+              "Landline": "23123434",
+              "Mobile": "43232444223"
+            }
+      }
+}
